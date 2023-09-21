@@ -1,0 +1,2 @@
+npm install prop-types - дополнительные библиотеки
+npm start - запустить браузер
